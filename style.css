@@ -1,0 +1,10 @@
+.card-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card .card-text{
+    padding-left: 5px;
+    padding-right: 5px;
+}
